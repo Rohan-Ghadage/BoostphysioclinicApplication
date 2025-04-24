@@ -84,19 +84,27 @@ This runs 5 key JUnit tests covering logic like booking, conflicts, and patient 
 ## 📸 Screenshots
 
 - ✅ Console interaction sample
-- ✅ Booking and cancellation
-- ✅ Final report output
-- ✅ JUnit test results
+  ![WhatsApp Image 2025-04-24 at 19 38 29_33ad1251](https://github.com/user-attachments/assets/05fe8bc1-f2bb-4c8c-adfe-8c5e72c832f1)
+  
+- ✅ Adding patient
+  ![image](https://github.com/user-attachments/assets/ba6ccc09-abd4-46e5-a18d-eb2534687931)
+  
+- ✅ Booking Appointment
+- ![image](https://github.com/user-attachments/assets/94baaf74-1538-43cf-a6a2-3736cf31cc27)
 
-> You can paste your screenshots here as `.png` images once captured.
+- ✅ Final report output
+  ![image](https://github.com/user-attachments/assets/135baeee-a6df-4c8d-9b3b-a893554ff7ff)
+
+- ✅ JUnit test results
+  ![WhatsApp Image 2025-04-24 at 17 37 01_929ace34](https://github.com/user-attachments/assets/f2bbaec7-41f8-48ad-afa7-7a117890272a)
 
 ---
 
 ## ✍️ Author
 
-**Rohan Ghadage**
-**8329503580**
-**ghadagerohan07@gmail.com**
-Student,Mumbai University
+- **Rohan Ghadage**
+- **8329503580**
+- **ghadagerohan07@gmail.com**
+- Student,Mumbai University
 
 ---
